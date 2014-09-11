@@ -1,0 +1,18 @@
+.widget_saver_input {
+	width: 20em;
+}
+
+#widget_saver.widget-liquid-left {
+	width: 100%;
+}
+
+#widget_saver .widgets-holder-wrap {
+	width: 38%;
+	padding: 7px;
+	background-color: #c0ebf9;
+}
+
+#widget_saver h3 {
+	padding: 7px 0;
+	margin: 0;
+}
